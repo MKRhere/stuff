@@ -1,8 +1,15 @@
-# MKRhere/Stuff
+<div style="text-align:center">
+<h1 style="text-align:center">MKRhere/Stuff</h1>
 
 Some templates and throwaway stuff, free for use. Unlicensed.
 
-### Telegram chat template
+### 1. Telegram chat template
 
-Gravit Designer File: [Telegram chat template](templates/Telegram chat.gvdesign)
-Gravit Designer File: [Telegram message bubble](templates/Telegram message bubble.gvdesign)
+<img alt="Telegram chat" src="img/Telegram-chat.jpeg" height=400px />
+
+Gravit Designer Files:
+
+[**Telegram chat template**](https://github.com/MKRhere/stuff/blob/master/templates/Telegram%20chat.gvdesign)
+
+[**Single message bubble**](https://github.com/MKRhere/stuff/blob/master/templates/Telegram%20message%20bubble.gvdesign)
+</div>
