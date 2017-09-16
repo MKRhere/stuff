@@ -27,7 +27,7 @@ Mobile/Portrait:
 
 Profile/Square:
 
-[2048 x 2048](https://github.com/MKRhere/stuff/blob/master/img/cassini/Nevertheless.it.moves.2048.square.png) | [1024 x 1024](https://github.com/MKRhere/stuff/blob/master/img/cassini/Nevertheless.it.moves.1024.square.png) | [512 x 512] (https://github.com/MKRhere/stuff/blob/master/img/cassini/Nevertheless.it.moves.512.square.png)
+[2048 x 2048](https://github.com/MKRhere/stuff/blob/master/img/cassini/Nevertheless.it.moves.2048.square.png) | [1024 x 1024](https://github.com/MKRhere/stuff/blob/master/img/cassini/Nevertheless.it.moves.1024.square.png) | [512 x 512](https://github.com/MKRhere/stuff/blob/master/img/cassini/Nevertheless.it.moves.512.square.png)
 
 <h3 align=center>Telegram chat template</h3>
 
