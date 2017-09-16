@@ -21,9 +21,13 @@ Desktop/Landscape
 
 [2736 x 1824 (Surface)](https://github.com/MKRhere/stuff/blob/telegram.chat/img/cassini/Nevertheless.it.moves.2736.1824.landscape.surfacepro.png) | [1920 x 1080 (HD Desktop)](https://github.com/MKRhere/stuff/blob/telegram.chat/img/cassini/Nevertheless.it.moves.1920.1080.landscape.png) | [1366 x 768](https://github.com/MKRhere/stuff/blob/telegram.chat/img/cassini/Nevertheless.it.moves.1366.768.landscape.png) | [1024 x 768](https://github.com/MKRhere/stuff/blob/telegram.chat/img/cassini/Nevertheless.it.moves.1024.768.landscape.png)
 
-Mobile:
+Mobile/Portrait:
 
 [1440 x 2560](https://github.com/MKRhere/stuff/blob/telegram.chat/img/cassini/Nevertheless.it.moves.1440.2560.portrait.mobile.png) | [1080 x 1920 (HD Mobile)](https://github.com/MKRhere/stuff/blob/telegram.chat/img/cassini/Nevertheless.it.moves.1080.1920.portrait.png)
+
+Profile/Square:
+
+[2048 x 2048]() | [1024 x 1024]() | [512 x 512] ()
 
 <h3 align=center>Telegram chat template</h3>
 
